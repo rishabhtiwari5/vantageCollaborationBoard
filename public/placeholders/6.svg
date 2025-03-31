@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <!-- Background -->
+  <rect width="400" height="400" fill="#f0f5f5"/>
+  
+  <!-- Triangular Grid Pattern -->
+  <g>
+    <!-- Row 1 -->
+    <path d="M25 40 L75 40 L50 80 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M75 40 L125 40 L100 80 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M125 40 L175 40 L150 80 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M175 40 L225 40 L200 80 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M225 40 L275 40 L250 80 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M275 40 L325 40 L300 80 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M325 40 L375 40 L350 80 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    
+    <!-- Row 2 - Inverted -->
+    <path d="M50 80 L100 80 L75 120 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M100 80 L150 80 L125 120 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M150 80 L200 80 L175 120 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M200 80 L250 80 L225 120 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M250 80 L300 80 L275 120 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M300 80 L350 80 L325 120 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    
+    <!-- Row 3 -->
+    <path d="M25 120 L75 120 L50 160 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M75 120 L125 120 L100 160 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M125 120 L175 120 L150 160 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M175 120 L225 120 L200 160 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M225 120 L275 120 L250 160 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M275 120 L325 120 L300 160 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M325 120 L375 120 L350 160 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    
+    <!-- Row 4 - Inverted -->
+    <path d="M50 160 L100 160 L75 200 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M100 160 L150 160 L125 200 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M150 160 L200 160 L175 200 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M200 160 L250 160 L225 200 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M250 160 L300 160 L275 200 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M300 160 L350 160 L325 200 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    
+    <!-- Row 5 -->
+    <path d="M25 200 L75 200 L50 240 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M75 200 L125 200 L100 240 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M125 200 L175 200 L150 240 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M175 200 L225 200 L200 240 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M225 200 L275 200 L250 240 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M275 200 L325 200 L300 240 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M325 200 L375 200 L350 240 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    
+    <!-- Row 6 - Inverted -->
+    <path d="M50 240 L100 240 L75 280 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M100 240 L150 240 L125 280 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M150 240 L200 240 L175 280 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M200 240 L250 240 L225 280 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M250 240 L300 240 L275 280 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M300 240 L350 240 L325 280 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    
+    <!-- Row 7 -->
+    <path d="M25 280 L75 280 L50 320 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M75 280 L125 280 L100 320 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M125 280 L175 280 L150 320 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M175 280 L225 280 L200 320 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M225 280 L275 280 L250 320 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M275 280 L325 280 L300 320 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M325 280 L375 280 L350 320 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    
+    <!-- Row 8 - Inverted -->
+    <path d="M50 320 L100 320 L75 360 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M100 320 L150 320 L125 360 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M150 320 L200 320 L175 360 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M200 320 L250 320 L225 360 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M250 320 L300 320 L275 360 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+    <path d="M300 320 L350 320 L325 360 Z" stroke="#4a8c8c" stroke-width="2" fill="none"/>
+  </g>
+</svg>

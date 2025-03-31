@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Background -->
+  <rect width="200" height="200" fill="#f8f8f8" rx="10" ry="10"/>
+  
+  <!-- Pattern Elements in consistent blue shades -->
+  <circle cx="40" cy="40" r="15" fill="#2980b9"/>
+  <circle cx="80" cy="40" r="15" fill="#3498db"/>
+  <circle cx="120" cy="40" r="15" fill="#2980b9"/>
+  <circle cx="160" cy="40" r="15" fill="#3498db"/>
+  
+  <circle cx="40" cy="80" r="15" fill="#3498db"/>
+  <circle cx="80" cy="80" r="15" fill="#2980b9"/>
+  <circle cx="120" cy="80" r="15" fill="#3498db"/>
+  <circle cx="160" cy="80" r="15" fill="#2980b9"/>
+  
+  <circle cx="40" cy="120" r="15" fill="#2980b9"/>
+  <circle cx="80" cy="120" r="15" fill="#3498db"/>
+  <circle cx="120" cy="120" r="15" fill="#2980b9"/>
+  <circle cx="160" cy="120" r="15" fill="#3498db"/>
+  
+  <circle cx="40" cy="160" r="15" fill="#3498db"/>
+  <circle cx="80" cy="160" r="15" fill="#2980b9"/>
+  <circle cx="120" cy="160" r="15" fill="#3498db"/>
+  <circle cx="160" cy="160" r="15" fill="#2980b9"/>
+</svg>

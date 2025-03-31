@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <!-- Background -->
+  <rect width="400" height="400" fill="#f0e6f5"/>
+  
+  <!-- Diagonal Pattern -->
+  <g>
+    <path d="M20 20 L380 380" stroke="#b05ccb" stroke-width="4" fill="none"/>
+    <path d="M60 20 L380 340" stroke="#b05ccb" stroke-width="4" fill="none"/>
+    <path d="M100 20 L380 300" stroke="#b05ccb" stroke-width="4" fill="none"/>
+    <path d="M140 20 L380 260" stroke="#b05ccb" stroke-width="4" fill="none"/>
+    <path d="M180 20 L380 220" stroke="#b05ccb" stroke-width="4" fill="none"/>
+    <path d="M220 20 L380 180" stroke="#b05ccb" stroke-width="4" fill="none"/>
+    <path d="M260 20 L380 140" stroke="#b05ccb" stroke-width="4" fill="none"/>
+    <path d="M300 20 L380 100" stroke="#b05ccb" stroke-width="4" fill="none"/>
+    <path d="M340 20 L380 60" stroke="#b05ccb" stroke-width="4" fill="none"/>
+    
+    <path d="M20 60 L340 380" stroke="#b05ccb" stroke-width="4" fill="none"/>
+    <path d="M20 100 L300 380" stroke="#b05ccb" stroke-width="4" fill="none"/>
+    <path d="M20 140 L260 380" stroke="#b05ccb" stroke-width="4" fill="none"/>
+    <path d="M20 180 L220 380" stroke="#b05ccb" stroke-width="4" fill="none"/>
+    <path d="M20 220 L180 380" stroke="#b05ccb" stroke-width="4" fill="none"/>
+    <path d="M20 260 L140 380" stroke="#b05ccb" stroke-width="4" fill="none"/>
+    <path d="M20 300 L100 380" stroke="#b05ccb" stroke-width="4" fill="none"/>
+    <path d="M20 340 L60 380" stroke="#b05ccb" stroke-width="4" fill="none"/>
+  </g>
+</svg>

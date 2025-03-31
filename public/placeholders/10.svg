@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <!-- Background -->
+  <rect width="400" height="400" fill="#f9fbe7"/>
+  <!-- Radial lines -->
+  <g stroke="#1e88e5" stroke-width="2">
+    <line x1="200" y1="200" x2="380" y2="200"/>
+    <line x1="200" y1="200" x2="356" y2="290"/>
+    <line x1="200" y1="200" x2="290" y2="356"/>
+    <line x1="200" y1="200" x2="200" y2="380"/>
+    <line x1="200" y1="200" x2="110" y2="356"/>
+    <line x1="200" y1="200" x2="44"  y2="290"/>
+    <line x1="200" y1="200" x2="20"  y2="200"/>
+    <line x1="200" y1="200" x2="44"  y2="110"/>
+    <line x1="200" y1="200" x2="110" y2="44"/>
+    <line x1="200" y1="200" x2="200" y2="20"/>
+    <line x1="200" y1="200" x2="290" y2="44"/>
+    <line x1="200" y1="200" x2="356" y2="110"/>
+  </g>
+  <!-- Concentric circles -->
+  <g stroke="#e53935" stroke-width="1" fill="none">
+    <circle cx="200" cy="200" r="50"/>
+    <circle cx="200" cy="200" r="100"/>
+    <circle cx="200" cy="200" r="150"/>
+  </g>
+</svg>

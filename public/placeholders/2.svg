@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <!-- Background -->
+  <rect width="400" height="400" fill="#e6f5f7"/>
+  
+  <!-- Wave Pattern -->
+  <g>
+    <path d="M20 50 Q60 10, 100 50 Q140 90, 180 50 Q220 10, 260 50 Q300 90, 340 50 Q380 10, 420 50" 
+          stroke="#4abed1" stroke-width="4" fill="none"/>
+    
+    <path d="M20 130 Q60 90, 100 130 Q140 170, 180 130 Q220 90, 260 130 Q300 170, 340 130 Q380 90, 420 130" 
+          stroke="#4abed1" stroke-width="4" fill="none"/>
+    
+    <path d="M20 210 Q60 170, 100 210 Q140 250, 180 210 Q220 170, 260 210 Q300 250, 340 210 Q380 170, 420 210" 
+          stroke="#4abed1" stroke-width="4" fill="none"/>
+    
+    <path d="M20 290 Q60 250, 100 290 Q140 330, 180 290 Q220 250, 260 290 Q300 330, 340 290 Q380 250, 420 290" 
+          stroke="#4abed1" stroke-width="4" fill="none"/>
+    
+    <path d="M20 370 Q60 330, 100 370 Q140 410, 180 370 Q220 330, 260 370 Q300 410, 340 370 Q380 330, 420 370" 
+          stroke="#4abed1" stroke-width="4" fill="none"/>
+  </g>
+</svg>
