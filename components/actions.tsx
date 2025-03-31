@@ -89,7 +89,7 @@ export const Actions = ({
                     onConfirm={onDelete}
                     title={title}
                 >
-                    <Button
+                     <Button
                         variant="ghost"
                         className="p-2 cursor-pointer text-rose-600 text-sm w-full justify-start font-normal"
                     >
