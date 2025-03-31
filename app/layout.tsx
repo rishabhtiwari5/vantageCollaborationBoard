@@ -22,9 +22,11 @@ export default function RootLayout({
                 <ConvexClientProvider>
                     <Toaster />
                     <ModalProvider />
+                    
                     <GeminiChatProvider>
                         {children}
                     </GeminiChatProvider>
+                    
                 </ConvexClientProvider>
             </body>
         </html>
